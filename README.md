@@ -8,7 +8,12 @@ https://www.youtube.com/@robotencarton
 
 Liste des sources utilisées pour les tutos robot.
 
--tuto1 : La base roulante différentielle
+-tuto 1 : La base roulante différentielle
+-tuto 2 : L'asservissement 1/2
+-tuto 2 : L'asservissement 2/2
+-tuto 4 : le cerveau du robot
+-tuto 5 : l'évitement
+-tuto 6 : en cours de production
 
 
 Amusez-vous bien avec vos robots!
